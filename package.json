@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "CopyCase plugin for brackets enable copying text in snake-case to CamelCase and vice-versa, useful for angular developers",
   "main": "main.js",
-  "keywords": ["brackets", "plugin", "angular"]
+  "keywords": ["brackets", "plugin", "angular"],
   "author": "Anoop Elias <anoopelias@gmail.com>",
+  "repository": "https://github.com/anoopelias/CopyCase.git",
   "license": "MIT"
 }
